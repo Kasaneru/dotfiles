@@ -1,0 +1,18 @@
+set selection-clipboard clipboard
+
+set default-bg rgba(31,31,40,1.0) # "#1a1b26"
+# set default-fg "#c0caf5"
+set recolor true
+set recolor-lightcolor rgba(31,31,40,0) # "#1f1f28"
+set recolor-darkcolor "#dcd7ba"
+
+#set index-bg "#1a1b26"
+#set index-fg "#f7768e"
+#set index-active-bg "#33467c"
+#set index-active-fg	"#f7768e"
+set statusbar-bg "#16161d"
+set statusbar-fg "#c8c093"
+set highlight-color	"#7e9cd8"
+#set highlight-active-color "#f7768e"
+#set inputbar-bg "#33467c"
+#set inputbar-fg "#c0caf5"
